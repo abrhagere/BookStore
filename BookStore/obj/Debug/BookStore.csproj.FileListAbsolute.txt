@@ -1,0 +1,230 @@
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\BookStore.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Owin.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.Migrations.mytables.resources
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.Migrations.sales.resources
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.Migrations.update.resources
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\abrha\source\repos\BookStore\BookStore\obj\Debug\BookStore.Migrations.purchase.resources
+E:\business\Arid Projects\BookStore\BookStore\bin\BookStore.dll.config
+E:\business\Arid Projects\BookStore\BookStore\bin\BookStore.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\BookStore.pdb
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csc.exe
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csc.exe.config
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csc.rsp
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csi.exe
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csi.exe.config
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\csi.rsp
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Console.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\vbc.exe
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\vbc.exe.config
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\vbc.rsp
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+E:\business\Arid Projects\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+E:\business\Arid Projects\BookStore\BookStore\bin\Antlr3.Runtime.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\EntityFramework.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Newtonsoft.Json.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\Owin.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Helpers.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Mvc.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Optimization.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Razor.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\WebGrease.dll
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Helpers.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Mvc.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Optimization.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.Razor.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Newtonsoft.Json.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+E:\business\Arid Projects\BookStore\BookStore\bin\EntityFramework.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\business\Arid Projects\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.mytables.resources
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.sales.resources
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.update.resources
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.purchase.resources
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.dll
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.nana.resources
+E:\business\Arid Projects\BookStore\BookStore\obj\Debug\BookStore.Migrations.urladd.resources

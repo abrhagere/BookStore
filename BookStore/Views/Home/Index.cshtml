@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    if (User.Identity.IsAuthenticated)
+    {
+        Layout = "~/Views/Shared/_adminLayout.cshtml";
+    }
+}
+
+<div class="jumbotron">
+    <h1>You can manage your Bookstore here</h1>
+    <p class="lead">Wel-Come To Admin Dashboard</p>
+    
+</div>
+
